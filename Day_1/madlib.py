@@ -1,9 +1,9 @@
 """
 String Substitution for a Mad Lib
 Adapted from code by Kirby Urner
-"""                                                  
-                                                     
-story = """                                       
+"""
+
+story = """
 Once upon a time, deep in an ancient jungle,
 there lived a %(animal)s.  This %(animal)s
 liked to eat %(food)s, but the jungle had
@@ -17,18 +17,20 @@ explorer brought it back to the jungle,
 leaving a large supply of %(food)s.
 
 The End
-"""                                                 
+"""
 
-def tellStory():                                     
-    userPicks = dict()                              
-    addPick('animal', userPicks)            
-    addPick('food', userPicks)            
-    addPick('city', userPicks)            
-    print(story % userPicks)                        
-                                                    
+
+def tellStory():
+    userPicks = dict()
+    addPick('animal', userPicks)
+    addPick('food', userPicks)
+    addPick('city', userPicks)
+    print(story % userPicks)
+
+
 def addPick(cue, dictionary):
-    prompt = "Enter a specific example for %s: " % cue     
-    dictionary[cue] = input(prompt)                                                             
+    prompt = "Enter a specific example for %s: " % cue
+    dictionary[cue] = input(prompt)
 
-tellStory()                                         
-input("Press Enter to end the program.")        
+tellStory()
+input("Press Enter to end the program.")
