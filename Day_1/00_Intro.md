@@ -4,9 +4,9 @@ This unit provides a basic introduction to Python. By the end of the week, you s
 
 1. Run Python from both the Shell and in an IPython Notebook
 2. Write basic commands using Python syntax
-3. Grasp the major Python object types, including integers, floats, strings, lists, sets, and dictionaries
+3. Grasp the major Python [object](https://github.com/dlab-berkeley/python-intensive/blob/master/Glossary.md#object) [types](https://github.com/dlab-berkeley/python-intensive/blob/master/Glossary.md#type), including [integers](https://github.com/dlab-berkeley/python-intensive/blob/master/Glossary.md#integer), [floats](https://github.com/dlab-berkeley/python-intensive/blob/master/Glossary.md#floating-point-number), [strings](https://github.com/dlab-berkeley/python-intensive/blob/master/Glossary.md#string), lists, sets, and dictionaries
 4. Operate and manipulate those objects
-5. Integrate choices into your programs using conditionals
+5. Integrate choices into your programs using [conditionals](https://github.com/dlab-berkeley/python-intensive/blob/master/Glossary.md#conditional-statement)
 
 
 # What is Programming
@@ -43,7 +43,7 @@ Thus "knowing how to program" means learning how to *think* like a programmer, n
 
 ![xkcd](http://sslimgs.xkcd.com/comics/wisdom_of_the_ancients.png)
 
-Here's the sad reality: When you're programming, 80% or more of your time will be spent debugging, looking stuff up (like program-specific syntax, documentation for packages, useful functions, etc.), or testing. This does not just apply to beginner or intermediate programmers, although you will grow more "fluent" over time.
+Here's the sad reality: When you're programming, 80% or more of your time will be spent debugging, looking stuff up (like program-specific syntax, [documentation](https://github.com/dlab-berkeley/python-intensive/blob/master/Glossary.md#documentation) for packages, useful functions, etc.), or testing. This does not just apply to beginner or intermediate programmers, although you will grow more "fluent" over time.
 
 If you're a good programmer, you're a good detective!
 
