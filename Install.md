@@ -38,13 +38,13 @@ We will teach Python using the IPython notebook, a programming environment that 
 ####Mac OS X
 
 * Download and install [Anaconda](https://store.continuum.io/cshop/anaconda/).
-* Download the default Python 2 installer (do not follow the link to version 3). Use all of the defaults for installation.
+* Download the default Python 3 installer. Use all of the defaults for installation.
 
 ####Linux
 
 We recommend the all-in-one scientific Python installer [Anaconda](http://continuum.io/downloads.html). (Installation requires using the shell and if you aren't comfortable doing the installation yourself just download the installer and we'll help you during the class.)
 
-1. Download the installer that matches your operating system and save it in your home folder. Download the default Python 2 installer (do not follow the link to version 3).
+1. Download the installer that matches your operating system and save it in your home folder. Download the Python 3 installer.
 2. Open a terminal window.
 3. Type `bash Anaconda-` and then press tab. The name of the file you just downloaded should appear.
 4. Press enter. You will follow the text-only prompts. When there is a colon at the bottom of the screen press the down arrow to move down through the text. Type `yes` and press enter to approve the license. Press enter to approve the default location for the files. Type `yes` and press enter to prepend Anaconda to your `PATH` (this makes the Anaconda distribution the default Python).
