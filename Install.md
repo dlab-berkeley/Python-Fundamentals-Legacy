@@ -26,19 +26,19 @@ The default shell is usually Bash, but if your machine is set up differently you
 ## 2. Python
 Python is a popular language for scientific computing, and great for general-purpose programming as well. Installing all of its scientific packages individually can be a bit difficult, so we recommend an all-in-one installer.
 
-Regardless of how you choose to install it, please make sure you install Python version 2.x and not version 3.x (e.g., 2.7 is fine but not 3.4). Python 3 introduced changes that will break some of the code we teach during the class.
+Regardless of how you choose to install it, please make sure you install Python version 3.x.
 
 We will teach Python using the IPython notebook, a programming environment that runs in a web browser. For this to work you will need a reasonably up-to-date browser. The current versions of the Chrome, Safari and Firefox browsers are all supported (some older browsers, including Internet Explorer version 9 and below, are not).
 
 ####Windows
 
 * Download and install [Anaconda](https://store.continuum.io/cshop/anaconda/).
-* Download the default Python 2 installer (do not follow the link to version 3). Use all of the defaults for installation except make sure to check **Make Anaconda the default Python.**
+* Download the Python 3 installer. Use all of the defaults for installation except make sure to check **Make Anaconda the default Python.**
 
 ####Mac OS X
 
 * Download and install [Anaconda](https://store.continuum.io/cshop/anaconda/).
-* Download the default Python 3 installer. Use all of the defaults for installation.
+* Download the Python 3 installer. Use all of the defaults for installation.
 
 ####Linux
 
