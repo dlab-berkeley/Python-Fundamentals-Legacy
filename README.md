@@ -2,16 +2,6 @@
 
 # python-intensive
 
-### Schedule:
-
-[Day 1](https://github.com/dlab-berkeley/python-intensive/tree/master/Day_1): Tue, August 16, 2016 - 9:30 AM to 12:30 PM, Barrows 356: D-Lab Convening Room [(Register)](http://dlab.berkeley.edu/training/python-everything-part-0-0)
-
-[Day 2](https://github.com/dlab-berkeley/python-intensive/tree/master/Day_2): Wed, August 17, 2016 - 9:30 AM to 12:30 PM, Barrows 356: D-Lab Convening Room [(Register)](http://dlab.berkeley.edu/training/python-everything-part-1-1)
-
-[Day 3](https://github.com/dlab-berkeley/python-intensive/tree/master/Day_3): Thu, August 18, 2016 - 9:30 AM to 12:30 PM, Barrows 356: D-Lab Convening Room [(Register)](http://dlab.berkeley.edu/training/python-everything-part-2-1)
-
-[Day 4](https://github.com/dlab-berkeley/python-intensive/tree/master/Day_4): Fri, August 19, 2016 - 9:30 AM to 12:30 PM, Barrows 356: D-Lab Convening Room [(Register)](http://dlab.berkeley.edu/training/python-everything-part-3-1)
-
 ### Credits:
 
 - Much of these materials were adapted from those produced by [Software Carpentry](http://software-carpentry.org/). Thank you!
