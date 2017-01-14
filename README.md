@@ -1,40 +1,42 @@
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/dlab-berkeley/python-intensive)
 
-# python-intensive
+# UC Berkeley's D-Lab Python Intensive Series
+
+To sign up for the Python series and other workshops, please visit the D-Lab's [website](http://dlab.berkeley.edu/training).
+
+The D-Lab introductory series consists of four parts:
+
+Part 1:
+
+* Running Python
+* Jupyter notebooks
+* Variables assignment
+* Types conversion
+* Strings
+* Built-ins
+
+Part 2:
+
+* Lists
+* Loops
+* Conditionals
+* Functions
+* Scope
+
+Part 3:
+
+* Dictionaries
+* Files
+* Libraries
+* Errors
+* Comprehensions
+
+Part 4:
+
+* Python in Application
+
+Parts 1-3 focus on learning the basics of programming in Python. This includes variables, data types, conditionals, functions, scope, debugging, and style. All of the materials aim to use examples from the social sciences and humanities in order to better relate to our target audience. In support of this, Part 4 is a day of application. Learners will work with a real-world text data set of UN documents, extracting targeted information and generating tabular data, ultimately writing to a .csv file suitable for subsequent statistical analysis. Everything needed to complete Part 4 is covered in parts 1-3.
 
 ### Credits:
 
-- Much of these materials were adapted from those produced by [Software Carpentry](http://software-carpentry.org/). Thank you!
-
-
-### Project: Using Python for Information Retrieval
-
-In this unit, we'll use python to turn a bunch of loose text documents into a real-life database. (Note: This database was created for a project by R. Terman and E. Voeten, and was processed using much the same process as you'll be learning here.)
-
-The lecture and problem set will leverage your new python skills, especially working with text, lists, and dictionaries; writing for-loops, conditional statements, and functions; and "thinking" like a programmer.
-
-**About the Data**
-
-We'll be creating a database from [Universal Period Review outcome reports](http://www.ohchr.org/EN/HRBodies/UPR/Pages/BasicFacts.aspx).
-
-The Universal Periodic Review (UPR) is a process run by the United Nations Human Rights Council, which involves a periodic review of the human rights records of all 193 UN Member States.
-
-Reviews take place through an interactive discussion between the State under review and other UN Member States. During this discussion any UN Member State can pose questions, comments and/or make recommendations to the States under review. States under review can then respond, stating which recommendations they reject, accept, will consider, etc. Reports are then drawn up detailing this discussion.
-
-We will be analyzing outcome reports from the 2014 Universal Period Reviews of 42 countries, which we retrieved [here](http://www.ohchr.org/EN/HRBodies/UPR/Pages/Documentation.aspx) and formatted as text documents.
-
-The goal is to convert these semi-structured texts to a tabular dataset of **recommendations** with the following variables:
-
-1. Text of recommendation (*text*)
-2. Country to which the recommendation is directed (*to*)
-3. Country that is making the recommendation (*from*)
-4. The year when the review took place (*year*)
-5. The response to the recommendation, i.e. whether the reviewed country rejects, accepts, etc (*decision*)
-
-In other words, we want to turn this:
-
-<img src="img/text.png" width="600">
-
-into this:
-
-<img src="img/tabular.png" width="400">
+Much of these materials were adapted from those produced by [Software Carpentry](http://software-carpentry.org/). Thank you!
