@@ -1,6 +1,6 @@
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/dlab-berkeley/python-intensive)
 
-# D-Lab Python Intensive Series
+# D-Lab Python Fundamentals Series
 
 To sign up for the Python series and other workshops, please visit the D-Lab's [website](http://dlab.berkeley.edu/training).
 
