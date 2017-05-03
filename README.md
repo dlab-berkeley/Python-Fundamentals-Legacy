@@ -1,4 +1,4 @@
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/dlab-berkeley/python-intensive)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/dlab-berkeley/python-fundamentals)
 
 # D-Lab Python Fundamentals Series
 
