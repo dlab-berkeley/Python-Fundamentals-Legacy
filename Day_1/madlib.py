@@ -1,3 +1,5 @@
+from __future__ import print_function
+
 """
 String Substitution for a Mad Lib
 Adapted from code by Kirby Urner
@@ -22,6 +24,9 @@ The End
 
 def tellStory():
     userPicks = dict()
+
+    print()
+
     addPick('animal', userPicks)
     addPick('food', userPicks)
     addPick('city', userPicks)
@@ -30,7 +35,11 @@ def tellStory():
 
 def addPick(cue, dictionary):
     prompt = "Enter a specific example for %s: " % cue
-    dictionary[cue] = input(prompt)
+    try:
+        dictionary[cue] = str(raw_input(prompt))
+    except:
+        dictionary[cue] = str(input(prompt))
 
 tellStory()
-input("Press Enter to end the program.")
+
+print()
