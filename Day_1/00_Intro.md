@@ -61,3 +61,9 @@ If you're a good programmer, you're a good detective!
 * google: name-of-program + text in error message
 * Remove user- and data-specific information first!
 * See if you can find examples that do and don’t produce the error
+
+### Stack Overflow Example
+
+Often when you google something, the most relevant and helpful result will be someone asking a similar question on Stack Overflow. Just to give you an example of what this looks like, [this](https://stackoverflow.com/questions/1228299/change-one-character-in-a-string) is the first result if you google "python change one character in a string". When we talk about strings and lists, you'll see why this might be a question you have!
+
+You'll see that someone asks a question, with an example of their question or problem, and then other users respond. If you look carefully, you'll see that some answers are more detailed than others, and that there is more than one way to go about doing something.
