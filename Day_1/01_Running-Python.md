@@ -51,10 +51,6 @@ Notice that the terminal window will go back to bash, giving you a `$` prompt.
 
 > #### Which Python?
 >
-> Python, like other programs, come in versions. And with each version, the
-> features may change. That means that running code made for Python 2 might
-> not work on Python 3. This is one of the motivations behind BCE -
-> to standardize software versions for teaching, etc.
 >
 > To see which version of Python you have, enter the command `which python` in
 > bash. You can use the `which` command with other programs, too.
@@ -67,7 +63,7 @@ If you quit from the Python interpreter and enter it again, the definitions you 
 
 This is known as creating a **script** (just like the shell scripts we created in Programming FUN!damentals). Python scripts have the ".py" extension to let everyone know (including the operating system) it is a Python program.
 
-The normal mode is the mode where the scripted and finished .py files are run in the Python interpreter. To run a program, make sure you're in bash mode in your terminal (the default mode), `cd` into the directory in which the Python program (.py file) is located, and then enter the command `python [name of file]`. Here's an example:
+The normal mode is the mode where the scripted and finished .py files are run in the Python interpreter. To run a program, make sure you're in bash mode in your terminal (the default mode), `cd` into the directory in which the Python program (.py file) is located, and then enter the command `python [name of file]`. Here's an example from out GitHub repo:
 
 ~~~bash
 $ python madlib.py
@@ -93,13 +89,21 @@ There are many Python IDE's. You can see a comparison [here](https://en.wikipedi
 
 This course will be using a Jupyter Notebook to interact with Python.  The bit of extra setup is well worth it because the Notebook provides code completion and other helpful features.
 
-Jupyter Notebooks are included in the Anaconda distribution. Notebook files have the extension ".ipynb" to distinguish them from plain-text Python programs.
+Jupyter Notebooks are included in the Anaconda distribution which you installed. Notebook files have the extension ".ipynb" to distinguish them from plain-text Python programs.
 
-To start a notebook server, simply type
+To get started, first download the materials:
 
-~~~bash
-$ jupyter notebook
-~~~
+1. Go to our GitHub repo [here](https://github.com/dlab-berkeley/python-fundamentals).
+2. Click on the green button in the top right that says "Clone or download".
+3. Click "Download ZIP".
+4. Unzip the file.
+5. Move the unzipped 'python-fundamentals' (or 'python-fundamentals-master') to your Desktop.
+
+Then open up Jupyter:
+
+1. Open the Anaconda Navigator program on your computer.
+2. Open Jupyter Notebook from there.
+3. Navigate to the 'python-fundamentals' folder.
 
 This will start a Jupyter Notebook server and open your default web browser.
 
@@ -116,5 +120,11 @@ This has several advantages:
 - It allows you to display figures next to the code that produces them to tell a complete story of the analysis.
 - The notebook is stored as JSON but can be saved as a .py file if you would like to run it from the bash shell or a python interpreter.
 - Just like a webpage, the saved notebook looks different than what you see when it gets rendered by your browser.
+
+Another way of starting a notebook server is through the command line. Make sure you're in the directory you want to be in, or a parent of it, then use the following command:
+
+~~~bash
+$ jupyter notebook
+~~~
 
 Let's get programming!
