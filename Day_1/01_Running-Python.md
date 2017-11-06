@@ -93,7 +93,7 @@ Jupyter Notebooks are included in the Anaconda distribution which you installed.
 
 To get started, first download the materials:
 
-1. Go to our GitHub repo [here](https://github.com/dlab-berkeley/python-fundamentals).
+1. Go to our GitHub repo. The URL is [**https://github.com/dlab-berkeley/python-fundamentals**](https://github.com/dlab-berkeley/python-fundamentals)
 2. Click on the green button in the top right that says "Clone or download".
 3. Click "Download ZIP".
 4. Unzip the file.
