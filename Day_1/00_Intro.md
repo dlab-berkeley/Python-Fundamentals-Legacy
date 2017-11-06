@@ -1,8 +1,8 @@
 # Python Basics: 0-1 Introduction.
 
-This unit provides a basic introduction to Python. By the end of the week, you should be able to:
+This unit provides a basic introduction to Python. By the end of the series, you should be able to:
 
-1. Run Python from both the Shell and in an IPython Notebook
+1. Run Python from both the Shell and in a Jupyter Notebook
 2. Write basic commands using Python syntax
 3. Grasp the major Python [object](https://github.com/dlab-berkeley/python-intensive/blob/master/Glossary.md#object) [types](https://github.com/dlab-berkeley/python-intensive/blob/master/Glossary.md#type), including [integers](https://github.com/dlab-berkeley/python-intensive/blob/master/Glossary.md#integer), [floats](https://github.com/dlab-berkeley/python-intensive/blob/master/Glossary.md#floating-point-number), [strings](https://github.com/dlab-berkeley/python-intensive/blob/master/Glossary.md#string), lists, sets, and dictionaries
 4. Operate and manipulate those objects

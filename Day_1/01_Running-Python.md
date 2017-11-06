@@ -103,7 +103,9 @@ Then open up Jupyter:
 
 1. Open the Anaconda Navigator program on your computer.
 2. Open Jupyter Notebook from there.
-3. Navigate to the 'python-fundamentals' folder.
+3. Navigate to the `python-fundamentals-master` folder. Depending on what your home directory is, this most likely mean clicking the "Desktop" folder, at which point `python-fundamentals-master` should be visible.
+4. Click on `python-fundamentals-master`.
+5. Click on `Day_1`.
 
 This will start a Jupyter Notebook server and open your default web browser.
 
