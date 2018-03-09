@@ -14,7 +14,7 @@ To give a value a name by associating a variable with it.
 (of a function): the statements that are executed when a function runs.
 
 #### boolean operators
-logical operators, i.e. `and`, `or`, and `not`, that allow us to build more complex conditional statements from simpler conditional statements. See: [contitional statements](#contitional-statement)
+logical operators, i.e. `and`, `or`, and `not`, that allow us to build more complex conditional statements from simpler conditional statements. See: [conditional statements](#conditional-statement)
 
 #### call stack
 A data structure inside a running program that keeps track of active function calls.
