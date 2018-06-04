@@ -30,17 +30,17 @@ Regardless of how you choose to install it, please make sure you install Python 
 
 We will teach Python using the IPython notebook, a programming environment that runs in a web browser. For this to work you will need a reasonably up-to-date browser. The current versions of the Chrome, Safari and Firefox browsers are all supported (some older browsers, including Internet Explorer version 9 and below, are not).
 
-####Windows
+#### Windows
 
 * Download and install [Anaconda](https://store.continuum.io/cshop/anaconda/).
 * Download the Python 3 installer. Use all of the defaults for installation except make sure to check **Make Anaconda the default Python.**
 
-####Mac OS X
+#### Mac OS X
 
 * Download and install [Anaconda](https://store.continuum.io/cshop/anaconda/).
 * Download the Python 3 installer. Use all of the defaults for installation.
 
-####Linux
+#### Linux
 
 We recommend the all-in-one scientific Python installer [Anaconda](http://continuum.io/downloads.html). (Installation requires using the shell and if you aren't comfortable doing the installation yourself just download the installer and we'll help you during the class.)
 
