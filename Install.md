@@ -1,4 +1,4 @@
-#Setup
+# Setup
 
 To participate in the Python Intensive workshop, you will need access to the software described below. In addition, you will need an up-to-date web browser. I recommend [Google Chrome](https://www.google.com/chrome/). 
 
