@@ -28,45 +28,33 @@ Python is a popular language for scientific computing, and great for general-pur
 
 Regardless of how you choose to install it, please make sure you install Python version 3.x.
 
-We will teach Python using the IPython notebook, a programming environment that runs in a web browser. For this to work you will need a reasonably up-to-date browser. The current versions of the Chrome, Safari and Firefox browsers are all supported (some older browsers, including Internet Explorer version 9 and below, are not).
+We will teach Python using the Jupyter notebook, a programming environment that runs in a web browser. For this to work you will need a reasonably up-to-date browser. The current versions of the Chrome, Safari and Firefox browsers are all supported (some older browsers, including Internet Explorer version 9 and below, are not).
 
 #### Windows
 
-* Download and install [Anaconda](https://store.continuum.io/cshop/anaconda/).
-* Download the Python 3 installer. Use all of the defaults for installation except make sure to check **Make Anaconda the default Python.**
+* Download and install the Python 3 [Anaconda](https://www.anaconda.com/distribution/) installer.
+* Use all of the defaults for installation except make sure to check **Make Anaconda the default Python.**
 
 #### Mac OS X
 
-* Download and install [Anaconda](https://store.continuum.io/cshop/anaconda/).
-* Download the Python 3 installer. Use all of the defaults for installation.
+* Download and install the Python 3 [Anaconda](https://www.anaconda.com/distribution/) installer.
+* Use all of the defaults for installation.
 
 #### Linux
 
-We recommend the all-in-one scientific Python installer [Anaconda](http://continuum.io/downloads.html). (Installation requires using the shell and if you aren't comfortable doing the installation yourself just download the installer and we'll help you during the class.)
+We recommend the all-in-one scientific Python installer [Anaconda](https://www.anaconda.com/distribution/). (Installation requires using the shell and if you aren't comfortable doing the installation yourself just download the installer and we'll help you during the class.)
 
-1. Download the installer that matches your operating system and save it in your home folder. Download the Python 3 installer.
+1. Download the Python 3 Anaconda installer that matches your operating system and save it in your home folder.
 2. Open a terminal window.
 3. Type `bash Anaconda-` and then press tab. The name of the file you just downloaded should appear.
 4. Press enter. You will follow the text-only prompts. When there is a colon at the bottom of the screen press the down arrow to move down through the text. Type `yes` and press enter to approve the license. Press enter to approve the default location for the files. Type `yes` and press enter to prepend Anaconda to your `PATH` (this makes the Anaconda distribution the default Python).
 
 ## Testing your installation
 
-Open a command line window ('terminal' or, on windows, 'git bash'), and enter the following commands (without the $ sign): 
+Open the Anaconda Navigator application as you would any other program in your computer (in the Apps folder on Mac, or the Start button on Windows). The Anaconda Navigator provides a graphical user interface (or GUI) to start Python in several different ways, as well as other useful Python related tasks.
 
-```bash
-$ python --version
-```
+Start the Jupyter Notebook application, which should open the Jupyter file navigator in your default web browser. It may take a few minutes the first time. To open a Jupyter notebook either locate an existing notebook file (`.ipynb` file) and click the link containing that notebook's filename, or create a new notebook by clicking the **New** button in the top right corner, and select **Python 3**. To close Jupyter, just close your browser.
 
-If bash and python have been installed, those commands *should* print output version information. The python version should include "Anaconda" and its version information.
-
-Jupyter is a python development environment that comes pre-installed with the Anaconda python distribution. To see if you have it, type the following into your terminal window:
-
-```bash
-$ jupyter notebook
-```
-
-This should open a programming interface in your default web browser. It may take a few minutes the first time. To close, just close your browser and then `CTRL-C` to end the process in the command line.
-
-Software Carpentry maintains a list of common issues that occur during installation may be useful for our class here: [Configuration Problems and Solutions wiki page.](https://github.com/swcarpentry/workshop-template/wiki/Configuration-Problems-and-Solutions)
+Software Carpentry maintains a list of common issues that occur during installation that may be useful for our class here: [Configuration Problems and Solutions wiki page.](https://github.com/swcarpentry/workshop-template/wiki/Configuration-Problems-and-Solutions)
 
 Credit: Thanks to [Software Carpentry](http://software-carpentry.org/workshops/) for providing installation guidelines.
