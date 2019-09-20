@@ -1,8 +1,9 @@
-[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlab-berkeley/python-fundamentals/master)
-
 # D-Lab Python Fundamentals Series
 
 To sign up for the Python series and other workshops, please visit the D-Lab's [website](http://dlab.berkeley.edu/training).
+
+To run these lessons in the cloud, click this button:
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlab-berkeley/python-fundamentals/master)
 
 The D-Lab introductory series consists of four parts:
 
