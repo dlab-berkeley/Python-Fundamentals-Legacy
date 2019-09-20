@@ -5,6 +5,8 @@ To sign up for the Python series and other workshops, please visit the D-Lab's [
 To run these lessons in the cloud, click this button:
 [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlab-berkeley/python-fundamentals/master)
 
+To run these lessons on your laptop, clone the repo on your laptop command line: `git clone https://github.com/dlab-berkeley/python-fundamentals.git`
+
 The D-Lab introductory series consists of four parts:
 
 Part 1:
