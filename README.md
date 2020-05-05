@@ -2,8 +2,11 @@
 
 To sign up for the Python series and other workshops, please visit the D-Lab's [website](http://dlab.berkeley.edu/training).
 
-To run these lessons in the cloud, click this button:
+If you have a Berkeley CalNet ID, you can run these lessons on Berkeley's DataHub by clicking [this link](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2Fpython-fundamentals&urlpath=tree%2Fpython-fundamentals%2F). By using this link, you can save your work and come back to it at any time.
+
+If you don't have a Berkeley CalNet ID, you can still run these lessons in the cloud, by clicking this button:
 [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlab-berkeley/python-fundamentals/master)
+By using this button, you cannot save your work unfortunately. 
 
 To run these lessons on your laptop: 
 - Click the green "Clone or Download" button
