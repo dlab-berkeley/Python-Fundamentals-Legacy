@@ -49,13 +49,13 @@ Check out the [D-Lab Computational Text Analysis Working Group by clicking here]
 * [Introduction to Pandas](https://github.com/dlab-berkeley/introduction-to-pandas)
 * [Data Visualization with Python](https://github.com/dlab-berkeley/visualization-with-python)
 * [Geospatial Fundamentals in Python](https://github.com/dlab-berkeley/Geospatial-Fundamentals-in-Python)
-* [Fairness and Bias in Machine Learning](https://github.com/dlab-berkeley/fairML)
 
 ### Intermediate/advanced copmetency
 
 * [Computational Text Analysis in Python](https://github.com/dlab-berkeley/computational-text-analysis-spring-2019)
 * [Introduction to Machine Learning in Python](https://github.com/dlab-berkeley/python-machine-learning)
 * [Introduction to Artificial Neural Networks in Python](https://github.com/dlab-berkeley/ANN-Fundamentals)
+* [Fairness and Bias in Machine Learning](https://github.com/dlab-berkeley/fairML)
 
 ### Legacy workshops (need updating)
 * [Introduction to Regular Expressions in Python](https://github.com/dlab-berkeley/regex-intro)
