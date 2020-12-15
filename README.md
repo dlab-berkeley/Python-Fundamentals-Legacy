@@ -42,6 +42,8 @@ Visit the [D-Lab homepage](http://dlab.berkeley.edu/) to learn more about us. Vi
 
 # Other D-Lab Python Workshops
 
+Check out the [D-Lab Computational Text Analysis Working Group by clicking here](http://dlabctawg.github.io/)
+
 ### Basic competency
 
 * [Introduction to Pandas](https://github.com/dlab-berkeley/introduction-to-pandas)
