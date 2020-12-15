@@ -20,9 +20,7 @@ If you don't have a Berkeley CalNet ID, you can still run these lessons in the c
 [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlab-berkeley/python-fundamentals/master)
 By using this button, you cannot save your work unfortunately. 
 
-If you are a Git user, clone the repo on your laptop command line:
-
-> `git clone git@github.com:dlab-berkeley/python-fundamentals.git`
+> If you are a Git user, simply clone this repository by opening a terminal and typing: `git clone git@github.com:dlab-berkeley/python-fundamentals.git`
 
 # Workshop goals
 
