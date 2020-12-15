@@ -46,6 +46,7 @@ Visit the [D-Lab homepage](http://dlab.berkeley.edu/) to learn more about us. Vi
 
 * [Introduction to Pandas](https://github.com/dlab-berkeley/introduction-to-pandas)
 * [Data Visualization with Python](https://github.com/dlab-berkeley/visualization-with-python)
+* [Geospatial Fundamentals in Python](https://github.com/dlab-berkeley/Geospatial-Fundamentals-in-Python)
 
 ### Intermediate/advanced copmetency
 
