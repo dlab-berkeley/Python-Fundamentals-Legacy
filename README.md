@@ -1,56 +1,65 @@
-# D-Lab Python Fundamentals Series
+# D-Lab Python Fundamentals introductory workshop series
 
-To sign up for the Python series and other workshops, please visit the D-Lab's [website](http://dlab.berkeley.edu/training).
+This is the repository for D-Lab's introductory Python-Fundamentals workshop series. Laptop, Internet connection, and Zoom account required.
 
-If you have a Berkeley CalNet ID, you can run these lessons on Berkeley's DataHub by clicking [this link](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2Fpython-fundamentals&urlpath=tree%2Fpython-fundamentals%2F). By using this link, you can save your work and come back to it at any time. When you want to return to your saved work, just go straight to DataHub (https://datahub.berkeley.edu), sign in, and you click on the `python-fundamentals` folder.
+# Download and install Python Anaconda distribution 3.7 and the workshop materials to get started. Before Part 1 be sure to: 
+
+1. [Download and install Python Anaconda distrubtion 3.7](https://www.anaconda.com/products/individual) --> Click "Download" and then click 64-bit "Graphical Installer" for your current operating system.
+
+2. Download the [Python-Fundamentals workshop materials](https://github.com/dlab-berkeley/python-fundamentals). To run these lessons on your laptop: 
+
+* Click the green "Clone or Download" button
+* Click "Download Zip"
+* Extract this file someplace familiar (we recommend Desktop) 
+
+# Is Python not working on your laptop? 
+
+If you have a Berkeley CalNet ID, you can run these lessons on UC Berkeley's DataHub by clicking [this link](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2Fpython-fundamentals&urlpath=tree%2Fpython-fundamentals%2F). By using this link, you can save your work and come back to it at any time. When you want to return to your saved work, just go straight to DataHub (https://datahub.berkeley.edu), sign in, and you click on the `python-fundamentals` folder.
 
 If you don't have a Berkeley CalNet ID, you can still run these lessons in the cloud, by clicking this button:
 [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlab-berkeley/python-fundamentals/master)
 By using this button, you cannot save your work unfortunately. 
 
-To run these lessons on your laptop: 
-- Click the green "Clone or Download" button
-- Click "Download Zip"
-- Extract this file someplace familiar (we recommend Desktop) 
-
 If you are a Git user, clone the repo on your laptop command line:
-```
-git clone https://github.com/dlab-berkeley/python-fundamentals.git
-```
 
-The D-Lab introductory series consists of four parts:
+> `git clone git@github.com:dlab-berkeley/python-fundamentals.git`
 
-Part 1:
+# Workshop goals
 
-* Running Python
-* Jupyter notebooks
-* Variables assignment
-* Types conversion
-* Strings
-* Built-ins
+There are four folders (one for each day) that contain the notebooks we will walk through for each day: 
 
-Part 2:
+**Day_1** - Running Python, Jupyter Notebooks, variables assignment, data type conversion, working with strings, built-in functions
+**Day_2** - Lists, for-loops, conditional statements, writing your own functions, scope
+**Day_3** - Dictionaries, reading and writing data from and to files, installing and importing libraries, debugging errors, list comprehensions, beautiful code
+**Day_4** - Python application for informatoin retrieval
 
-* Lists
-* Loops
-* Conditionals
-* Functions
-* Scope
+# Start running the code!
 
-Part 3:
+**First, open the Anaconda Navigator application.** You should see the green snake logo appear on your screen and this could take a few minutes to load up the first time. Then click the "Launch" button under "Jupyter Notebooks" and navigate through your file system to the "Python Fundamentals" folder you downloaded above. Then, open the "Day_1" folder and click **02_Jupyter Notebooks.ipynb** to begin. Press Shift + Enter (or Ctrl + Enter) to run a cell.
 
-* Dictionaries
-* Files
-* Libraries
-* Errors
-* Comprehensions
+# About the UC Berkeley D-Lab
+D-Lab works with Berkeley faculty, research staff, and students to advance data-intensive social science and humanities research. Our goal at D-Lab is to provide practical training, staff support, resources, and space to enable you to use R for your own research applications. Our services cater to all skill levels and no programming, statistical, or computer science backgrounds are necessary. We offer these services in the form of workshops such as R Fundamentals, one-to-one consulting, and working groups that cover a variety of research topics, digital tools, and programming languages.  
 
-Part 4:
+Visit the [D-Lab homepage](http://dlab.berkeley.edu/) to learn more about us. View our [calendar](http://dlab.berkeley.edu/calendar-node-field-date) for upcoming events, and also learn about how to utilize our [consulting](http://dlab.berkeley.edu/consulting) and [data](http://dlab.berkeley.edu/data-resources) services. 
 
-* Python in Application
+# Other D-Lab Python Workshops
 
-Parts 1-3 focus on learning the basics of programming in Python. This includes variables, data types, conditionals, functions, scope, debugging, and style. All of the materials aim to use examples from the social sciences and humanities in order to better relate to our target audience. In support of this, Part 4 is a day of application. Learners will work with a real-world text data set of UN documents, extracting targeted information and generating tabular data, ultimately writing to a .csv file suitable for subsequent statistical analysis. Everything needed to complete Part 4 is covered in parts 1-3.
+### Basic competency
+
+* [Introduction to Pandas](https://github.com/dlab-berkeley/introduction-to-pandas)
+* [Data Visualization with Python](https://github.com/dlab-berkeley/visualization-with-python)
+
+### Intermediate/advanced copmetency
+
+* [Computational Text Analysis in Python](https://github.com/dlab-berkeley/computational-text-analysis-spring-2019)
+* [Introduction to Machine Learning in Python](https://github.com/dlab-berkeley/python-machine-learning)
+* [Introduction to Artificial Neural Networks in Python](https://github.com/dlab-berkeley/ANN-Fundamentals)
+
+### Legacy workshops (need updating)
+* [Introduction to Regular Expressions in Python](https://github.com/dlab-berkeley/regex-intro)
+* [Regular Expressions in Python](https://github.com/dlab-berkeley/regular-expressions-in-python)
+* [Python Data from Web](https://github.com/dlab-berkeley/python-data-from-web)
+* [Python Search APIs](https://github.com/dlab-berkeley/search-APIs)
 
 ### Credits:
-
 Much of these materials were adapted from those produced by [Software Carpentry](http://software-carpentry.org/). Thank you!
