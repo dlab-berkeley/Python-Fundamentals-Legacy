@@ -29,7 +29,7 @@ There are four folders (one for each day) that contain the notebooks we will wal
 **Day_1** - Running Python, Jupyter Notebooks, variables assignment, data type conversion, working with strings, built-in functions
 **Day_2** - Lists, for-loops, conditional statements, writing your own functions, scope
 **Day_3** - Dictionaries, reading and writing data from and to files, installing and importing libraries, debugging errors, list comprehensions, beautiful code
-**Day_4** - Python application for informatoin retrieval
+**Day_4** - Python application for information retrieval. You will extract targeted information from a text data set of United Nations documents to generate tabular data in a .csv file suitable for subsequent statistical analysis. Everything needed for this exercise is covered in Days 1, 2, and 3. 
 
 # Start running the code!
 
