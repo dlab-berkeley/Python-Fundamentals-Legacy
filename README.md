@@ -61,4 +61,4 @@ Visit the [D-Lab homepage](http://dlab.berkeley.edu/) to learn more about us. Vi
 * [Python Search APIs](https://github.com/dlab-berkeley/search-APIs)
 
 ### Credits:
-Much of these materials were adapted from those produced by [Software Carpentry](http://software-carpentry.org/). Thank you!
+Much of the Python-Fundamentals materials were adapted from those produced by [Software Carpentry](http://software-carpentry.org/). Thank you!
