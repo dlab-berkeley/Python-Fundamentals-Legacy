@@ -1,8 +1,22 @@
-# D-Lab Python Fundamentals introductory workshop series
+# D-Lab Python Fundamentals
 
 This is the repository for D-Lab's introductory Python-Fundamentals workshop series. Laptop, Internet connection, and Zoom account required.
 
-# Download and install Python Anaconda distribution 3.7 and the workshop materials to get started. Before Part 1 be sure to: 
+# Workshop goals
+
+There are four folders (one for each day) that contain the notebooks we will walk through for each day: 
+
+**Day_1** - Running Python, Jupyter Notebooks, variables assignment, data type conversion, working with strings, built-in functions
+
+**Day_2** - Lists, for-loops, conditional statements, writing your own functions, scope
+
+**Day_3** - Dictionaries, reading and writing data from and to files, installing and importing libraries, debugging errors, list comprehensions, beautiful code
+
+**Day_4** - Python application for information retrieval. You will extract targeted information from a text data set of United Nations documents to generate tabular data in a .csv file suitable for subsequent statistical analysis. Everything needed for this exercise is covered in Days 1, 2, and 3. 
+
+# Installation Instructions
+
+Download and install Python Anaconda distribution 3.7 and the workshop materials to get started. Before Part 1 be sure to: 
 
 1. [Download and install Python Anaconda distrubtion 3.7](https://www.anaconda.com/products/individual) --> Click "Download" and then click 64-bit "Graphical Installer" for your current operating system.
 
@@ -22,23 +36,28 @@ By using this button, you cannot save your work unfortunately.
 
 > If you are a Git user, simply clone this repository by opening a terminal and typing: `git clone git@github.com:dlab-berkeley/python-fundamentals.git`
 
-# Workshop goals
-
-There are four folders (one for each day) that contain the notebooks we will walk through for each day: 
-
-**Day_1** - Running Python, Jupyter Notebooks, variables assignment, data type conversion, working with strings, built-in functions
-**Day_2** - Lists, for-loops, conditional statements, writing your own functions, scope
-**Day_3** - Dictionaries, reading and writing data from and to files, installing and importing libraries, debugging errors, list comprehensions, beautiful code
-**Day_4** - Python application for information retrieval. You will extract targeted information from a text data set of United Nations documents to generate tabular data in a .csv file suitable for subsequent statistical analysis. Everything needed for this exercise is covered in Days 1, 2, and 3. 
-
-# Start running the code!
+# Run the code! 
 
 **First, open the Anaconda Navigator application.** You should see the green snake logo appear on your screen and this could take a few minutes to load up the first time. Then click the "Launch" button under "Jupyter Notebooks" and navigate through your file system to the "Python Fundamentals" folder you downloaded above. Then, open the "Day_1" folder and click **02_Jupyter Notebooks.ipynb** to begin. Press Shift + Enter (or Ctrl + Enter) to run a cell.
+
+# How to get help?
+
+* Within the language/tool itself
+* Via Google searching
+* On stackoverflow
+
+# Resources
+
+* [Quintessential book and authors](link to website)
+* {Important website name](link to website)
+* et cetera
 
 # About the UC Berkeley D-Lab
 D-Lab works with Berkeley faculty, research staff, and students to advance data-intensive social science and humanities research. Our goal at D-Lab is to provide practical training, staff support, resources, and space to enable you to use R for your own research applications. Our services cater to all skill levels and no programming, statistical, or computer science backgrounds are necessary. We offer these services in the form of workshops such as R Fundamentals, one-to-one consulting, and working groups that cover a variety of research topics, digital tools, and programming languages.  
 
 Visit the [D-Lab homepage](http://dlab.berkeley.edu/) to learn more about us. View our [calendar](http://dlab.berkeley.edu/calendar-node-field-date) for upcoming events, and also learn about how to utilize our [consulting](http://dlab.berkeley.edu/consulting) and [data](http://dlab.berkeley.edu/data-resources) services. 
+
+(include definition of IOKN2K!)
 
 # Other D-Lab Python Workshops
 
@@ -63,5 +82,7 @@ Check out the [D-Lab Computational Text Analysis Working Group by clicking here]
 * [Python Data from Web](https://github.com/dlab-berkeley/python-data-from-web)
 * [Python Search APIs](https://github.com/dlab-berkeley/search-APIs)
 
-### Credits:
-Much of the Python-Fundamentals materials were adapted from those produced by [Software Carpentry](http://software-carpentry.org/). Thank you!
+# Contributors
+* [Contributor A](link to D-Lab bio)
+* [Contributor B](link to D-Lab bio)
+* Much of the Python-Fundamentals materials were adapted from those produced by [Software Carpentry](http://software-carpentry.org/). Thank you!
