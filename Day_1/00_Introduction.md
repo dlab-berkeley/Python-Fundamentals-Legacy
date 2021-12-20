@@ -1,4 +1,4 @@
-# Python Basics: Introduction.
+# Python Basics: Introduction
 
 This unit provides a basic introduction to Python. By the end of the series, you should be able to:
 
@@ -16,25 +16,25 @@ This unit provides a basic introduction to Python. By the end of the series, you
 > *   Explain how programming languages can differ.
 > *   Give useful debugging tips.
 > *   Offer helpful resource websites.
-> *   Explain how to google an error.
+> *   Explain how to Google an error.
 
 ## What it means to "know how to program"
 
 Most programmers can program in more than one language. That's because they know *how to program* generally, as opposed to "knowing" Python, R, Ruby, or any other language.
 
-In other words, programming is an extendible skill. Basic programming concepts -- conditionals, for loops, functions -- can be found in almost any programming language.
+In other words, programming is an extendible skill. Basic programming concepts - conditionals, for loops, functions - can be found in almost any programming language.
 
 That being said, programming languages differ from one another in the following ways:
 
 1. **Syntax**: The precise rules of how to structure code in a language. For example, whether to add a semicolon at the end of each line.
-2. **Usage**: Different programming languages are designed with different aims in mind. For example, JavaScript is generally for building websites, R is primarily a statistical programming language, Python is a general purpose programming lanaguage, etc.
-3. **Level**: How close you are to the hardware. Programming languages ultimately end up as assembly code or machin 'C' is often considered one of the lowest level programming language in that 
-4. **Object-oriented:** "objects" are data + functions. Some programming languages are object-oriented (e.g. Python) and some aren't (e.g. C).
+2. **Usage**: Different programming languages are designed for different goals. For example, JavaScript is generally for building websites, R is primarily a statistical programming language, Python is a general purpose programming lanaguage, etc.
+3. **Level**: How close you are to the hardware. Any programming code ultimately ends up as machine code. The difference between languages lies in how they are represented to the user. For example, C is often considered lower level language than others, because certain concepts - such as memory management - are not abstracted away in C.
+4. **Object-oriented:** Many programming languages are object-oriented in that they provide functionality to create objects, which allow the user to organize code and functions in useful modules.
 5. **Many more**: Here's a [list](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type) of all the types of programming languages out there.
 
 So what should your first programming language be? That is, what programming language should you use to learn *how to program*? At the end of the day, the answer depends on what you want to get out of programming. Many people recommend Python because its fun, easy, and multi-purpose. Here's an [article](http://lifehacker.com/which-programming-language-should-i-learn-first-1477153665) that can offer more advice.
 
-Regardless of what you choose, you will probably grow 'comfortable' in one language while learning the basic concepts and skills that allow you to 'hack' your way into other languages.  
+Regardless of what you choose, you will probably grow "comfortable" in one language while learning the basic concepts and skills that allow you to "hack" your way into other languages.  
 
 Thus "knowing how to program" means learning how to *think* like a programmer, not necessarily knowing all the language-specific commands off the top of your head. **Don't learn specific programming languages; learn how to program.**
 
@@ -48,12 +48,15 @@ If you're a good programmer, you're a good detective!
 
 ## Debugging
 
+Here's a useful mental workflow to keep in mind when you want to try and debug an error:
+
 1. Read the errors!
-2. Read the documentation
-2. Make it smaller
-3. Figure out what changed
-4. Check your syntax
-5. Print statements are your friend
+2. Read the documentation.
+3. Make it smaller.
+4. Figure out what changed.
+5. Check your syntax.
+6. Print statements are your friend.
+7. Even better than print statements - built-in debuggers! These are more advanced, but worth learning how to use when you're ready.
 
 ## Googling Errors
 
@@ -61,7 +64,7 @@ Here are some tips on how to use Google to resolve errors you run might into:
 
 * Enter in Google the name of the computer language and the text in error message.
 * Be sure to remove user- and data-specific information first!
-* See if you can find examples that do and don’t produce the error
+* See if you can find examples that do and don’t produce the error.
 
 ## Stack Overflow Example
 
