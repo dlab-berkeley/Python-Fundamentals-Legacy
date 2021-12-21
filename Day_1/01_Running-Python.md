@@ -1,26 +1,25 @@
-# Python Basics: 1 Running Python
+# Python Basics: Running Python
 
 > ## Questions
 > How can I run Python programs?
 >
 > ## Learning Objectives
 >
-> *   Running Python in Anaconda IDE
+> *   Running Python in IDEs
 > *   Jupyter Notebooks
 > *   Download the training material
 > *   Open Jupyter Notebook
 
 
-## Running Python in Anaconda IDE
+## Running Python in Integrated Development Environments
 
-It's common to write python programs using either a text editor or an interactive/integrated development environment (IDE). An IDE  is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of a source code editor, build automation tools, and a debugger. Some of them come with package managers and other features, too.
+It's common to write Python programs using either a text editor or an integrated development environment (IDE). An IDE is a software application that provides a comprehensive suite of tools to programmers for software development. An IDE normally consists of a source code editor, build automation tools, and a debugger. Some of them come with package managers and other features, too.
 
-There are many Python IDE's. You can see a comparison [here](https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments#Python)
-
+There are many Python IDE's. You can see a comparison [here](https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments#Python).
 
 ## Jupyter Notebooks
 
-This course will be using a Jupyter Notebook to interact with Python.  The bit of extra setup is well worth it because the Notebook provides code completion and other helpful features.
+In this course, we interact with Python using Jupyter Notebooks. Using Jupyter Notebooks will require some extra setup. It will be well worth it, however, as Jupyter Notebooks are among the most powerful (and heavily used) tools for conducting data science in Python.
 
 Jupyter Notebooks are included in the Anaconda distribution which you installed. Notebook files have the extension ".ipynb" to distinguish them from plain-text Python programs.
 
