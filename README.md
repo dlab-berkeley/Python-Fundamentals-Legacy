@@ -10,9 +10,9 @@ There are four folders (one for each day) that contain the notebooks we will wal
 
 **Day_2** - Lists, for-loops, conditional statements, writing your own functions, scope
 
-**Day_3** - Dictionaries, reading and writing data from and to files, installing and importing libraries, debugging errors, list comprehensions, beautiful code
+**Day_3** - Scientific computing: Pandas, numpy, and statsmodels
 
-**Day_4** - Python application for information retrieval. You will extract targeted information from a text data set of United Nations documents to generate tabular data in a .csv file suitable for subsequent statistical analysis. Everything needed for this exercise is covered in Days 1, 2, and 3. 
+**Day_4** - Python best practices and application
 
 # Installation Instructions
 
