@@ -39,7 +39,7 @@ Now that you have all the required software and materials, you need to run the c
 
 4. Press Shift + Enter (or Ctrl + Enter) to run a cell.
 
-# Is Python not working on your laptop? 
+## Is Python not working on your laptop? 
 
 If you do not have Anaconda installed and the materials loaded on your workshop by the time it starts, we *strongly* recommend using the UC Berkeley Datahub to run the materials for these lessons. You can access the DataHub by clicking this button: 
 
