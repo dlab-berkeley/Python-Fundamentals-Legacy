@@ -45,10 +45,7 @@ If you do not have Anaconda installed and the materials loaded on your workshop 
 
 [![Datahub](https://img.shields.io/badge/launch-datahub-blue)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Fundamentals&urlpath=tree%2FPython-Fundamentals%2F&branch=main)
 
-By using this link, you can save your work and come back to it at any time. When you want to return to your saved work, just go straight to DataHub (https://datahub.berkeley.edu), sign in, and you click on the `python-fundamentals` folder.
-
 The DataHub downloads this repository, along with any necessary packages, and allows you to run the materials in a Jupyter notebook that is stored on UC Berkeley's servers. No installation is necessary from your end - you only need an internet browser and a CalNet ID to log in. By using the DataHub, you can save your work and come back to it at any time. When you want to return to your saved work, just go straight to [DataHub](https://datahub.berkeley.edu), sign in, and you click on the `Python-Fundamentals` folder.
-
 
 If you don't have a Berkeley CalNet ID, you can still run these lessons in the cloud, by clicking this button:
 
