@@ -35,7 +35,7 @@ Now that you have all the required software and materials, you need to run the c
 
 2. Click the "Launch" button under "Jupyter Notebooks" and navigate through your file system to the `Python-Fundamentals` folder you downloaded above.
 
-3. Open the `lessons` folder, then `Part1`, and open `00_workshop_setup.ipynb` to begin.
+3. In the folder, open the `00_workshop_setup.ipynb` to begin.
 
 4. Press Shift + Enter (or Ctrl + Enter) to run a cell.
 
