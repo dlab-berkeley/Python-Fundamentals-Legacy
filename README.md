@@ -103,7 +103,7 @@ working with Anaconda.
 
 Check out the following online resources to learn more about Python:
 
-* [A Byte of Python](https://python.swaroopch.com).
+* [A Byte of Python](https://python.swaroopch.com)
 * [Software Carpentry](https://swcarpentry.github.io/)
 * [W3Schools](https://www.w3schools.com/python/)
 
